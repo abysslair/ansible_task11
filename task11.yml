@@ -29,4 +29,4 @@
   - name: Move Template file to /var/www/html 
     shell: "mv /tmp/finexo-html/* /var/www/html/" 
     args:
-      creates: var/www/html/about.htmlx
+      creates: var/www/html/about.html
